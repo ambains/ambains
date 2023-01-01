@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ambains
 - 👀 I’m interested in exploring datasets of all kinds using python libraries and sql.
-- I recently acquired a Data Analyst Nanodegree from Udacity.  
+- I recently acquired a Data Analyst Nanodegree from Udacity and am enrolled in the Udacity AWS Cloud Architect Nanodegree.
 - I’m looking to collaborate on data wrangling and visualization using python and sql. 
 - 📫 Please reach me on amritabains21@gmail.com for collaborations on projects.
