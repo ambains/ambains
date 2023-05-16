@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ambains
 - 👀 I’m interested in exploratory data analysis with python and sql. 
 - 📫 Please reach me on amritabains21@gmail.com for collaborations on exploratory data analysis projects.
-- Background: BA in chemistry, Data Analyst Nanodegree from Udacity. Currently enrolled in AWS Cloud Architect at Udacity. 
+- Background: BA in chemistry, Data Analyst Nanodegree from Udacity and AWS Cloud Architect.  
