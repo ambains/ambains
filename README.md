@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ambains
+- 👋 Hi, I’m Amrita. 
 - 👀 I’m interested in exploratory data analysis of genomic data. 
 - 📫 Please reach me on amritabains21@gmail.com for collaborations on exploratory data analysis projects. 
-- Background: BA in chemistry and health sciences, Data Analyst and AWS Cloud Architect Nanodegree from Udacity.
-- Enrolled in MS in Bioinformatics at NYU Tandon School of Engineering.  
+- Education: BA in chemistry and health science, MS in Biomedical engineering.
+  
